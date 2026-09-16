@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+
+# Local documents and generated project files
+*.pdf
+*.csv
+analysis/
+assets/
+output/
