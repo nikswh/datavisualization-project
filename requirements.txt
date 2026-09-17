@@ -10,3 +10,4 @@ seaborn>=0.13
 plotly>=5.24
 kaleido>=0.2
 pycountry>=24.6
+requests>=2.32
