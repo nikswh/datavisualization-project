@@ -1,9 +1,15 @@
 # macOS metadata
 .DS_Store
 
+# Python cache files
+__pycache__/
+*.py[cod]
+
 # Local documents and generated project files
 *.pdf
 *.csv
+Screenshot*.png
+mappa.png
 analysis/
 assets/
 output/
